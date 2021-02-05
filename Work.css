@@ -1,0 +1,47 @@
+body{
+    margin: 2px 2px 2px 2px;
+    background-color:rgb(221, 218, 218);
+    
+    
+}
+#hoi{
+    border:2px solid black;
+    width:1500px;
+    height: 800px;
+    background-image: url("http://1.bp.blogspot.com/-7tyKQNHWLU8/ThGqig1iJ3I/AAAAAAAAAFM/ly8ZCH0-t6I/s1600/Awesome+copy.jpg") ;
+    background-position: center;
+    background-origin: padding-box;
+    background-repeat: no-repeat;
+    background-size: 1500px 1850px 500px 1200px;
+}
+#rom{
+    
+    text-align: top;
+}
+h1{
+    color: rgb(126, 12, 12);
+    font-size:xxx-large;
+    text-align: center;
+}
+button{
+    text-align: center;
+}
+#jis{
+    background-image: linear-gradient(rgb(223, 28, 223),rgb(161, 59, 235),rgb(78, 78, 241),rgb(77, 247, 77),rgb(245, 245, 57),rgb(241, 180, 67),rgb(236, 58, 58));
+    
+}
+#prot{
+    background-color: rgb(61, 59, 59);
+    border: 1px solid rgb(44, 42, 42);
+    height:200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+#noi{
+    color: rgb(243, 241, 239);
+    
+    
+    margin:12px;
+    padding:2px;
+}
